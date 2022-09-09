@@ -1,0 +1,8 @@
+O primeiro passo para criarmos um pasta versionada e criarmos uma estrututa inicial. 
+Entao fazemos isso com o 'git init'.
+Apos isso precisamos nos identificarmos para o git,
+ como o nome e email desse modo;
+git config --global user.email "email@gmail.com.br"
+git config --global user.name "Seu nome"
+
+Apos isso voce pode utilizar o git commit apos finalizar a criancao da branch e dos arquivos criados nela.
